@@ -151,8 +151,6 @@ const roshan = {
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=roshanraj9136&repo=personal-portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://roshanraj9136.github.io/personal-portfolio/)
-
 </div>
 
 ### 🌟 **Project Highlights**
