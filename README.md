@@ -97,7 +97,7 @@ const roshan = {
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-450%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/roshanraj9136)
+[![LeetCode](https://img.shields.io/badge/LeetCode-450%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/leave_the_past/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
 
 </div>
@@ -183,7 +183,7 @@ const roshan = {
   
 [![Gmail](https://img.shields.io/badge/Gmail-roshanraj9136-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshanraj9136@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-roshanraj9136-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshanraj9136)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/roshanraj9136)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/leave_the_past/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roshanraj9136.github.io/personal-portfolio/)
 
 </div>
