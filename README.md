@@ -134,7 +134,7 @@ const developer = {
   
 [![Email](https://img.shields.io/badge/Email-roshanr%40iitbhilai.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshanr@iitbhilai.ac.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black)](https://roshanraj9136.github.io/personal-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black)]([https://roshanraj9136.github.io/personal-portfolio/](https://personal-website-ashy-ten-66.vercel.app/))
 
 </div>
 
