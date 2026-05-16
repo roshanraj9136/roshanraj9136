@@ -117,7 +117,7 @@ const developer = {
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanraj9136&theme=dark&hide_border=true&background=0D1117&stroke=00ffcc&ring=00ffcc&fire=FF6B6B&currStreakLabel=00ffcc&v=2" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=roshanraj9136&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ffcc&ring=00ffcc&fire=FF6B6B&currStreakLabel=00ffcc&v=3" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
