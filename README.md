@@ -40,20 +40,11 @@ const developer = {
 ## 💻 **Pinned Repositories**
 
 <div align="center">
-  <a href="https://github.com/roshanraj9136/Second-Brain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanraj9136&repo=Second-Brain&theme=tokyonight&bg_color=0D1117&title_color=00ffcc&text_color=a9b1d6&icon_color=00ffcc" alt="Second Brain"/>
-  </a>
-  <a href="https://github.com/roshanraj9136/Personal_Crypto_Dashborad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanraj9136&repo=Personal_Crypto_Dashborad&theme=tokyonight&bg_color=0D1117&title_color=00ffcc&text_color=a9b1d6&icon_color=00ffcc" alt="Crypto Dashboard"/>
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/roshanraj9136/thermoelectric-materials-screening">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanraj9136&repo=thermoelectric-materials-screening&theme=tokyonight&bg_color=0D1117&title_color=00ffcc&text_color=a9b1d6&icon_color=00ffcc" alt="Thermoelectric Materials"/>
   </a>
-  <a href="https://github.com/roshanraj9136/Algorace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanraj9136&repo=Algorace&theme=tokyonight&bg_color=0D1117&title_color=00ffcc&text_color=a9b1d6&icon_color=00ffcc" alt="Algorace"/>
+  <a href="https://github.com/roshanraj9136/Second-Brain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanraj9136&repo=Second-Brain&theme=tokyonight&bg_color=0D1117&title_color=00ffcc&text_color=a9b1d6&icon_color=00ffcc" alt="Second Brain"/>
   </a>
 </div>
 
