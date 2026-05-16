@@ -117,7 +117,9 @@ const developer = {
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=roshanraj9136&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ffcc&ring=00ffcc&fire=FF6B6B&currStreakLabel=00ffcc&v=4" alt="GitHub Streak Stats"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=roshanraj9136&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 <div align="center">
