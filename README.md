@@ -37,16 +37,32 @@ const developer = {
 
 ---
 
-## 💻 **Pinned Repositories**
+## 💻 **Featured Projects**
 
-<div align="center">
-  <a href="https://github.com/roshanraj9136/thermoelectric-materials-screening">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanraj9136&repo=thermoelectric-materials-screening&theme=tokyonight&bg_color=0D1117&title_color=00ffcc&text_color=a9b1d6&icon_color=00ffcc" alt="Thermoelectric Materials"/>
-  </a>
-  <a href="https://github.com/roshanraj9136/Second-Brain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanraj9136&repo=Second-Brain&theme=tokyonight&bg_color=0D1117&title_color=00ffcc&text_color=a9b1d6&icon_color=00ffcc" alt="Second Brain"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>🔬 <a href="https://github.com/roshanraj9136/thermoelectric-materials-screening">Thermoelectric Materials Screening</a></b></h3>
+      <br>
+      <p align="center">Engineered an active learning workflow utilizing Bayesian Optimization and Gaussian Process models to accelerate high-entropy thermoelectric materials discovery.</p>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>🧠 <a href="https://github.com/roshanraj9136/Second-Brain">Second Brain Platform</a></b></h3>
+      <br>
+      <p align="center">Developed a full-stack, highly scalable cloud knowledge management platform featuring instant search, dynamic tagging, and secure RESTful APIs.</p>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
