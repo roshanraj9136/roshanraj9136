@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=THE%20DYNAMIC%20CONSOLE&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=00ffcc&desc=Roshan%20Raj%20%7C%20Code.%20Solve.%20Build.&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=ROSHAN%20RAJ&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=00ffcc&desc=Full-Stack%20%7C%20Machine%20Learning&descAlignY=55&descAlign=50" width="100%"/>
 </div>
-
-<br>
 
 <div align="center">
   
@@ -12,37 +10,81 @@
 
 <br>
 
-<table>
-  <tr>
-    <td valign="top">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding Animation">
+</div>
 
-```bash
-roshanraj9136@iit-bhilai
--------------------------
-OS: Arch Linux / Mind 2.0
-Host: Computer Science & Eng.
-Uptime: 20+ Years
-Packages: 500+ (LeetCode), 30+ (Mentees)
-Shell: zsh (Full-Stack Dev)
-Resolution: 4K Vision
-WM: Machine Learning & Algorithms
-```
+<br>
 
-    </td>
-    <td valign="top">
+## 🚀 **About Me**
 
 ```javascript
 const developer = {
     name: "Roshan Raj",
-    focus: ["Full-Stack", "Machine Learning"],
-    arsenal: ["React", "Node", "Python", "C++"],
-    philosophy: "Building the future, one line at a time."
+    location: "IIT Bhilai, India",
+    education: "B.Tech in Computer Science & Engineering (Expected 2027)",
+    focusAreas: ["Full-Stack Dev", "Machine Learning", "Algorithms"],
+    techArsenal: {
+        languages: ["C++", "Python", "JavaScript", "SQL"],
+        frontend: ["React.js", "Tailwind CSS", "HTML5/CSS3"],
+        backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL"],
+        dataScience: ["Scikit-learn", "NumPy", "Pandas", "Bayesian Optimization"]
+    },
+    competitiveProgramming: "500+ Problems on LeetCode & Codeforces",
+    philosophy: "Building the future, one line of code at a time."
 };
 ```
 
-    </td>
-  </tr>
-</table>
+---
+
+## 💻 **Pinned Repositories**
+
+<div align="center">
+  <a href="https://github.com/roshanraj9136/Second-Brain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanraj9136&repo=Second-Brain&theme=tokyonight&bg_color=0D1117&title_color=00ffcc&text_color=a9b1d6&icon_color=00ffcc" alt="Second Brain"/>
+  </a>
+  <a href="https://github.com/roshanraj9136/Personal_Crypto_Dashborad">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanraj9136&repo=Personal_Crypto_Dashborad&theme=tokyonight&bg_color=0D1117&title_color=00ffcc&text_color=a9b1d6&icon_color=00ffcc" alt="Crypto Dashboard"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/roshanraj9136/thermoelectric-materials-screening">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanraj9136&repo=thermoelectric-materials-screening&theme=tokyonight&bg_color=0D1117&title_color=00ffcc&text_color=a9b1d6&icon_color=00ffcc" alt="Thermoelectric Materials"/>
+  </a>
+  <a href="https://github.com/roshanraj9136/Algorace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanraj9136&repo=Algorace&theme=tokyonight&bg_color=0D1117&title_color=00ffcc&text_color=a9b1d6&icon_color=00ffcc" alt="Algorace"/>
+  </a>
+</div>
+
+---
+
+## ⚡ **Tech Stack Matrix**
+
+<div align="center">
+
+### **Core Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Frontend & Backend**
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Machine Learning & Tools**
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
@@ -52,13 +94,6 @@ const developer = {
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=roshanraj9136&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshanraj9136&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc" height="150" alt="stats card"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanraj9136&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffcc" height="150" alt="top languages"/>
 </div>
 
 <br>
