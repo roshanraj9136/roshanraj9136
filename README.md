@@ -55,7 +55,7 @@ const developer = {
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><b>🌐 <a href="https://github.com/roshanraj9136/fault-tolerant-load-balancer">Fault-Tolerant Load Balancer</a></b></h3>
-      <p align="center">A Go reverse proxy with round-robin and least-in-flight routing, health checks, and retries across 3 replicated backends. Traced an 18% error rate to OOM kills and brought it to 0 errors at 2,500 concurrent users.</p>
+      <p align="center">A Go reverse proxy with least-connections routing, active health checks, and retries across 3 replicated backends. Traced an 18% error rate to OOM kills and brought it to 0 errors at 2,500 concurrent users.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
